@@ -1,0 +1,8 @@
+title: My DevCat Studios Portfolio
+
+description: This is my portfolio showcasing my projects and skills.
+
+baseurl: "" 
+url: "https://kimberly0701.github.io"
+
+theme: jekyll-theme-midnight 
